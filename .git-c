@@ -1,0 +1,8 @@
+#include<studio.pro>
+main()
+{
+char item;
+int partno;
+float cost;
+scanf("%s%d%f",&itme,&partno,&cost);
+}
